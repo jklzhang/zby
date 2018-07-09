@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 I<?php
-echo “张博源大傻B”;
+echo “郭龙冬大傻B”;
 =======
 <?php
 echo “郭隆咚大傻逼”;
